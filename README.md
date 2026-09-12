@@ -1,5 +1,9 @@
 S&P 500 US Stock Market Data 2026 
 
+Link to the dataset as it was too large to attach:
+https://www.kaggle.com/datasets/parsalatifi/s-and-p-500-us-stock-market-data?resource=download 
+
+
 ## Why I Chose This Dataset
 I chose the S&P 500 US Stock Market Data 2026 because of my personal interest in the stock market and its real data. 
 The dataset stores pricing, volume, date/time, and even split and dividend data. 
